@@ -1,0 +1,37 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(45deg,#4582EC, #4582ecd7);
+}
+
+.title__cep {
+    font-size: 45px;
+    color: #FFF;
+    border-right: 2px solid #000;
+    padding-right: 4px;
+    max-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: blink normal infinite .8s, text normal 5s steps(55) both;
+}
+
+@keyframes blink {
+    100% {
+        border-right-color: transparent;
+    }
+}
+
+@keyframes text {
+    100% {
+        max-width: 100%;
+    }
+} 
+
+.container__input {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+}
+
