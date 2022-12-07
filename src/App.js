@@ -10,7 +10,7 @@ function App() {
       <div className="container__input">
           <input 
           type="text"
-          placeholder="Digite o seu cep" 
+          placeholder="Informe o seu CEP" 
           />
         
 
