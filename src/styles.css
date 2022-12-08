@@ -73,18 +73,53 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: #FFF;
-    width: 500px;
+    background: #2c9eef3f;
+    width: 400px;
     border-radius: 8px;
+    box-shadow: 6px 8px 15px rgb(26, 102, 233);
+    color: #FFF;
 }
 
 .main h2 {
     margin: 16px 0;
-    font-size: 39px;
+    font-size: 27px;
 }
 
 .main span {
     margin-bottom: 16px;
-    font-weight: bold;
+    
 }
+
+
+@media (max-width: 480px) {
+    .container {
+        background: linear-gradient(45deg,#c545ec, #6145ecd7);
+
+    }
+    
+    .title__cep {
+        font-size: 45px;
+    }
+
+    .button__search {
+        border: 1px solid #c545ec;
+    }
+
+    .main {
+        background-color: #c545ec;
+        box-shadow: 6px 8px 15px rgb(111, 74, 118);
+    }
+
+    .main h2 {
+        font-size: 25px;
+    }
+
+    .main {
+        width: 80%;
+    }
+}
+
+
+
+
 
