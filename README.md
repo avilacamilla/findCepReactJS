@@ -13,6 +13,8 @@
 ## Conheça o projeto 😉
 Aqui você acessa uma demostração da aplicação: https://find-cep-react.vercel.app/
 
+![find-cep-react vercel app_ (3)](https://user-images.githubusercontent.com/115038212/206795867-92c163b7-6fbc-4d0d-9d79-6157f2039917.png)
+
 
 ## Site responsivo ✅
 
@@ -32,7 +34,7 @@ Aqui você acessa uma demostração da aplicação: https://find-cep-react.verce
 - Uso de promisses para chamadas HTTP na API;
 - Uso de State Hook.
 
-## Stacks utilizadas
+## Stacks do projeto
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
