@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  Projeto experimental para buscar CEP's no Brasil, consumindo a API Via CEP https://exemplo.com/.</br> Em foco: HTML, CSS e JS (React Axios). 
+  Projeto experimental para buscar CEP's no Brasil, consumindo a API Via CEP https://viacep.com.br/.</br> Em foco: HTML, CSS e JS (React Axios). 
 </td>
 </tr>
 </table>
